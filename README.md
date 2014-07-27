@@ -7,12 +7,12 @@ Useful Python utility scripts to
 
 ## Email your Dynamic IP change
 
-_emailDynamicIPChange.py_
+*emailDynamicIPChange.py*
 
 This script will periodically check your Dynamic IP address and email you the IP address in case it changes.
 Provide your gmail credential to send the email and also the recipient email address.
 
-* Used Python libraries *
+**Used Python libraries**
 - time
 - urllib
 - smtplib  
