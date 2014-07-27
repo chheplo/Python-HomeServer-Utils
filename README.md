@@ -5,7 +5,7 @@ Useful Python utility scripts to
 (1) A run a server at home
 (2) Remote access your home computer
 
-# Email your Dynamic IP change
+## Email your Dynamic IP change
 
 _emailDynamicIPChange.py_
 
